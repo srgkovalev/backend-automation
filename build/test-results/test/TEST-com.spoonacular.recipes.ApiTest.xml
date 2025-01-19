@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spoonacular.recipes.ApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-17T14:16:15" hostname="HQ-PMHHJCGXM9.local" time="1.304">
+  <properties/>
+  <testcase name="Get all recipes" classname="com.spoonacular.recipes.ApiTest" time="1.304"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
